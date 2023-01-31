@@ -32,6 +32,7 @@
 
 
 ### Tarihe göre sefer arama
+![TariheGöreSeferArama](https://user-images.githubusercontent.com/54630694/215798735-51cefcea-bd42-4462-82ac-00ab83c99491.png)
 
 
 ### Şehirlere göre sefer arama
