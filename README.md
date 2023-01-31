@@ -18,17 +18,21 @@
 <br><br> 
 # Admin sisteme sefer ekleyebiliyor
 ## Uçak seferi eklenmesi
-![Ekran görüntüsü 2023-01-31 171315](https://user-images.githubusercontent.com/54630694/215784089-3b999a15-99dc-4190-84ff-416762d95de9.png)
+![planeexpedition](https://user-images.githubusercontent.com/54630694/215789968-870d7939-66ff-40e0-a813-cb9e7f2ab405.png)
+
 ### Veri tabanında uçak seferleri
-![Ekran görüntüsü 2023-01-31 161528](https://user-images.githubusercontent.com/54630694/215770485-7056b508-206c-45dd-a367-6c161b1cf7cc.png)
+![UçakseferiVeriTabanı](https://user-images.githubusercontent.com/54630694/215796615-f3bde274-9114-4884-95b5-c4a0df8ae9e7.png)
 <br> 
 ## Otobüs seferi eklenmesi
-![Ekran görüntüsü 2023-01-31 154424](https://user-images.githubusercontent.com/54630694/215763352-411de45d-9640-45a7-882f-952273070854.png)
+![OtobüsSeferiEklenmesi](https://user-images.githubusercontent.com/54630694/215798196-44eb85d4-58a6-4de8-a570-1d74b675a43a.png)
+
+
 ### Veri tabanında otobüs seferleri
-![Ekran görüntüsü 2023-01-31 161215](https://user-images.githubusercontent.com/54630694/215769587-52e9a024-fb26-45dc-a0ad-bb7b1536e0f4.png)
+![VeriTabanındaOtobüsSeferleri](https://user-images.githubusercontent.com/54630694/215797991-27cd1443-0276-4c0d-99dc-359595c87683.png)
+
 
 ### Tarihe göre sefer arama
-![Ekran görüntüsü 2023-01-31 172205](https://user-images.githubusercontent.com/54630694/215786136-025a8765-de11-4a73-b69a-9ebbcef64de5.png)
+
 
 ### Şehirlere göre sefer arama
 ![Ekran görüntüsü 2023-01-31 172356](https://user-images.githubusercontent.com/54630694/215786598-fdd036f0-e968-48c5-b1e0-975f6b3b2aac.png)
