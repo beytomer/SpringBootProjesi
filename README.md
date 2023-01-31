@@ -38,6 +38,17 @@
 <br>
 # User Uçak bileti alma işlemi 
 ![Ekran görüntüsü 2023-01-31 162421](https://user-images.githubusercontent.com/54630694/215772513-eaf5df0c-ad44-459b-9e30-1d01ea1ec3cf.png)
+## Veri tabanında uçak biletleri
+![Ekran görüntüsü 2023-01-31 171550](https://user-images.githubusercontent.com/54630694/215784599-cb8da879-fa0d-4449-84e9-ab8c5fb4adb2.png)
 <br>
+
+# User Otobüs biletleri alma işlemleri
+![Ekran görüntüsü 2023-01-31 171726](https://user-images.githubusercontent.com/54630694/215784979-d7bc8d76-b3fb-4eab-a1da-059cb23a219e.png)
+## Veri tabanında otobüs biletleri
+![Ekran görüntüsü 2023-01-31 171844](https://user-images.githubusercontent.com/54630694/215785299-1924e09a-2b9d-459f-97a4-c54e297a311b.png)
+<br>
+
+
+
 
 
