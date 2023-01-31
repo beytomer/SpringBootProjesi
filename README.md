@@ -26,6 +26,13 @@
 ![Ekran görüntüsü 2023-01-31 154424](https://user-images.githubusercontent.com/54630694/215763352-411de45d-9640-45a7-882f-952273070854.png)
 ### Veri tabanında otobüs seferleri
 ![Ekran görüntüsü 2023-01-31 161215](https://user-images.githubusercontent.com/54630694/215769587-52e9a024-fb26-45dc-a0ad-bb7b1536e0f4.png)
+
+### Tarihe göre sefer arama
+![Ekran görüntüsü 2023-01-31 172205](https://user-images.githubusercontent.com/54630694/215786136-025a8765-de11-4a73-b69a-9ebbcef64de5.png)
+
+### Şehirlere göre sefer arama
+![Ekran görüntüsü 2023-01-31 172356](https://user-images.githubusercontent.com/54630694/215786598-fdd036f0-e968-48c5-b1e0-975f6b3b2aac.png)
+
 <br>
 # User kayıt işlemi
 ![Ekran görüntüsü 2023-01-31 153702](https://user-images.githubusercontent.com/54630694/215761815-acd96bfc-ee24-47b4-a6db-564d991831fb.png)
