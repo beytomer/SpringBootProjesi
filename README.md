@@ -40,18 +40,22 @@
 
 <br>
 # User kayıt işlemi
-![Ekran görüntüsü 2023-01-31 153702](https://user-images.githubusercontent.com/54630694/215761815-acd96bfc-ee24-47b4-a6db-564d991831fb.png)
+![UserKayıtİşlemi](https://user-images.githubusercontent.com/54630694/215799308-99ec24db-cbc7-4ef1-9661-1b5d1d33f400.png)
 <br>
 # Userlar kayıt olduktan sonra veri tabanında oluşturuluyor iken şifreler hasing algoritması ile kaydediliyor
-![Ekran görüntüsü 2023-01-31 153909](https://user-images.githubusercontent.com/54630694/215762224-9ff5c6e9-c0fe-4b34-9011-2b65c0081785.png)
+![UserVeriTabanıKayıt](https://user-images.githubusercontent.com/54630694/215799714-2b18c7a0-3da1-4b9b-9fd2-4a36ed0544dc.png)
+
 <br>
 # User login işlemi
-![Ekran görüntüsü 2023-01-31 161801](https://user-images.githubusercontent.com/54630694/215771165-6f835918-30b2-4f89-80c0-020b807e647f.png)
+![Login](https://user-images.githubusercontent.com/54630694/215800907-028f44ba-bc40-48c2-824c-f5a33830bc50.png)
+
 <br>
 # User Uçak bileti alma işlemi 
-![Ekran görüntüsü 2023-01-31 162421](https://user-images.githubusercontent.com/54630694/215772513-eaf5df0c-ad44-459b-9e30-1d01ea1ec3cf.png)
+
+
 ## Veri tabanında uçak biletleri
-![Ekran görüntüsü 2023-01-31 171550](https://user-images.githubusercontent.com/54630694/215784599-cb8da879-fa0d-4449-84e9-ab8c5fb4adb2.png)
+
+
 <br>
 
 # User Otobüs biletleri alma işlemleri
