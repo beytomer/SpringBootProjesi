@@ -28,40 +28,60 @@
 
 
 ### Veri tabanında otobüs seferleri
+
 ![VeriTabanındaOtobüsSeferleri](https://user-images.githubusercontent.com/54630694/215797991-27cd1443-0276-4c0d-99dc-359595c87683.png)
 
 
 ### Tarihe göre sefer arama
+
 ![TariheGöreSeferArama](https://user-images.githubusercontent.com/54630694/215798735-51cefcea-bd42-4462-82ac-00ab83c99491.png)
 
 
 ### Şehirlere göre sefer arama
+
 ![Ekran görüntüsü 2023-01-31 172356](https://user-images.githubusercontent.com/54630694/215786598-fdd036f0-e968-48c5-b1e0-975f6b3b2aac.png)
 
 <br>
+
 # User kayıt işlemi
+
 ![UserKayıtİşlemi](https://user-images.githubusercontent.com/54630694/215799308-99ec24db-cbc7-4ef1-9661-1b5d1d33f400.png)
+
 <br>
+
 # Userlar kayıt olduktan sonra veri tabanında oluşturuluyor iken şifreler hasing algoritması ile kaydediliyor
+
 ![UserVeriTabanıKayıt](https://user-images.githubusercontent.com/54630694/215799714-2b18c7a0-3da1-4b9b-9fd2-4a36ed0544dc.png)
 
 <br>
+
 # User login işlemi
+
 ![Login](https://user-images.githubusercontent.com/54630694/215800907-028f44ba-bc40-48c2-824c-f5a33830bc50.png)
 
 <br>
+
 # User Uçak bileti alma işlemi 
+
+![UçakBiletiAlmaİşlemi](https://user-images.githubusercontent.com/54630694/215802096-c6f89c84-5276-4d51-88b5-553600e22010.png)
 
 
 ## Veri tabanında uçak biletleri
 
+![VeriTabanındaUcakBiletleri](https://user-images.githubusercontent.com/54630694/215802350-43576d70-dcc1-4c82-ba31-f9815b234da3.png)
 
 <br>
 
 # User Otobüs biletleri alma işlemleri
+
 ![Ekran görüntüsü 2023-01-31 171726](https://user-images.githubusercontent.com/54630694/215784979-d7bc8d76-b3fb-4eab-a1da-059cb23a219e.png)
+
+<br>
+
 ## Veri tabanında otobüs biletleri
+
 ![Ekran görüntüsü 2023-01-31 171844](https://user-images.githubusercontent.com/54630694/215785299-1924e09a-2b9d-459f-97a4-c54e297a311b.png)
+
 <br>
 
 
