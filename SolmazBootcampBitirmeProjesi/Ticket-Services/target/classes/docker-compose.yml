@@ -1,0 +1,41 @@
+version: "3"
+
+services:
+
+  # Database
+  mysqldb:
+    image: mysql:latest
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: 12345678
+      MYSQL_DATABASE: yeni
+      MYSQL_PASSWORD: 12345678
+    networks:
+      - mysql-phpmyadmin
+
+  # phpmyadmin
+  phpmyadmin:
+    depends_on:
+      - mysqldb
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - 8084:80
+    environment:
+      PMA_HOST: mysqldb
+
+      MYSQL_ROOT_PASSWORD: 12345678
+    networks:
+      - mysql-phpmyadmin
+
+
+
+networks:
+  mysql-phpmyadmin:
+
+volumes:
+  db_data:
