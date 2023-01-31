@@ -18,7 +18,7 @@
 <br><br> 
 # Admin sisteme sefer ekleyebiliyor
 ## Uçak seferi eklenmesi
-![Ekran görüntüsü 2023-01-31 154257](https://user-images.githubusercontent.com/54630694/215762993-44800e27-989d-43d3-b7f5-69d57d2f5692.png)
+![Ekran görüntüsü 2023-01-31 171315](https://user-images.githubusercontent.com/54630694/215784089-3b999a15-99dc-4190-84ff-416762d95de9.png)
 ### Veri tabanında uçak seferleri
 ![Ekran görüntüsü 2023-01-31 161528](https://user-images.githubusercontent.com/54630694/215770485-7056b508-206c-45dd-a367-6c161b1cf7cc.png)
 <br> 
