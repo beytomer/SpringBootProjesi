@@ -1,4 +1,3 @@
-# BootcampBitirmeProjesi
 
 # Proje Konusu : 
 # Online uçak ve otobüs bileti satışı yapılmak istenmektedir.
